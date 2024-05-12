@@ -20,7 +20,7 @@ import javax.swing.JOptionPane;
  */
 
 /**
- * TextIO provides a set of static methods for reading and writing text. By
+ * TextIO provides a set of static methods for reading and writing text! By
  * default, it reads from standard input and writes to standard output, but it
  * is possible to redirect the input and output to files or to other input and
  * output streams. When the standard input and output streams are being used,
