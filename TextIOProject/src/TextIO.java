@@ -49,7 +49,7 @@ import javax.swing.JOptionPane;
  * required only Java 1.1; this version should work with any source code that
  * used the previous version, but it has some new features, including the type
  * of formatted output that was introduced in Java 5 and the ability to use
- * files and streams.
+ * files and streams!
  */
 public class TextIO {
 
